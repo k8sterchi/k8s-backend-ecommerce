@@ -1,7 +1,7 @@
 # k8s-backend-ecommerce
 
 ## Description
-I coded the backend for an e-commerce site. Using a working Express.js APIn I configured it to use Sequelize in order to interact with a MySQL database.
+I coded the backend for an e-commerce site. Using a working Express.js API, I configured it to use Sequelize in order to interact with a MySQL database.
 
 ## Table of Contents
 - [User Story](#user-story)
