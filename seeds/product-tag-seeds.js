@@ -1,3 +1,5 @@
+require('dotenv').config(); // Load environment variables
+
 const { ProductTag } = require('../models');
 
 const productTagData = [

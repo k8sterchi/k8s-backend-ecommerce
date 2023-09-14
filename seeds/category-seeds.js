@@ -1,3 +1,5 @@
+require('dotenv').config(); // Load environment variables
+
 const { Category } = require('../models');
 
 const categoryData = [
