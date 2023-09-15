@@ -46,6 +46,10 @@ THEN I am able to successfully create, update, and delete data in my database
 Preview of application:
 TODO: INSERT PHOTOS HEREEEEEE
 
+since the application is unfinished, here is a screenshot of the tables made using sql shell commands. 
+
+![alt text](./images/in_process.png)
+
 ## Demo
 TODO: INSERT VIDEO HEREEEEEE
 
